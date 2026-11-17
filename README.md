@@ -1,8 +1,8 @@
 # gta6-twitch-ccu-forecast
 
 [![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
-[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/nimble-condor-53/gta6-twitch-ccu-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
-[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/nimble-condor-53/gta6-twitch-ccu-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/canglvam/gta6-twitch-ccu-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/canglvam/gta6-twitch-ccu-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 Forecasts how many people watch Grand Theft Auto VI live on Twitch in each
 hour of its release day (2026-11-19 UTC), from the first hour's print and the
@@ -13,9 +13,6 @@ with a normal fit), plus a shrunk level effect (bigger hour-1 prints grow
 less). Leave-one-out pinball loss on the kit's 38 comparable launches:
 0.273 on rolling-midnight launches vs 0.357 for the house baseline
 (0.205 vs 0.301 on console-only rolling launches).
-
-> TODO at submit time: replace the `nimble-condor-53` owner in the badges
-> above with the real GitHub owner once the repository exists.
 
 ## Run it
 
